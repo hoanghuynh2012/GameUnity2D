@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - Die
+  - Coin
+  - GioiHan
+  - GioiHanTrai
+  - GioiHanPhai
+  - BenCanh
+  - Top
+  - Top1
+  - Top2
+  - Top3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1831804443
+    locked: 0
+  - name: Button
+    uniqueID: 2247169807
+    locked: 0
+  - name: Platform
+    uniqueID: 1517312511
+    locked: 0
+  - name: VatThe
+    uniqueID: 553708647
+    locked: 0
+  - name: Coin
+    uniqueID: 2957405947
+    locked: 0
+  - name: QuaiVat
+    uniqueID: 1309777219
+    locked: 0
+  - name: Player
+    uniqueID: 2101701493
+    locked: 0
